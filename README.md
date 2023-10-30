@@ -20,4 +20,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khushbunavdiwala&show_icons=true&locale=en" alt="khushbunavdiwala" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khushbunavdiwala&" alt="khushbunavdiwala" /></p>
+<p><img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=khushbunavdiwala&](https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Frrjgt6quy9171.jpg)https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Frrjgt6quy9171.jpg" alt="khushbunavdiwala" /></p>
